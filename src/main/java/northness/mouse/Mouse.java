@@ -7,7 +7,7 @@ import net.minecraft.resources.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class Mouse implements ModInitializer {
+public class 	Mouse implements ModInitializer {
 	public static final String MOD_ID = "mouse";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "mouse:block/mouse_face",
+    "down": "mouse:block/mouse_south",
+    "up": "mouse:block/mouse_north",
+    "north": "mouse:block/mouse_face",
+    "south": "mouse:block/mouse_back",
+    "west": "mouse:block/mouse_leftright",
+    "east": "mouse:block/mouse_leftright"
+  }
+  }

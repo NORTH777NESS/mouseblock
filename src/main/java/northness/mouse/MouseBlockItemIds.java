@@ -4,7 +4,7 @@ import net.minecraft.references.BlockItemId;
 import net.minecraft.resources.Identifier;
 
 public class MouseBlockItemIds {
-    public static BlockItemId MOUSE = create("Mouse");
+    public static BlockItemId MOUSE = create("mouse");
 
     private static BlockItemId create(String name) {
         Identifier id = Identifier.fromNamespaceAndPath(Mouse.MOD_ID, name);
